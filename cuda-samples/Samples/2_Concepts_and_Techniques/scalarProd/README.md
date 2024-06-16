@@ -1,4 +1,4 @@
-# reduction
+# scalar product
 
 ## Description
 
@@ -16,7 +16,7 @@ $ nvcc <kernel-name>.cu
 For the reference implementation, use make:
 
 ```
-$ make reduction
+$ make scalarProd
 ```
 
 
